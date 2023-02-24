@@ -8,8 +8,7 @@
 <div align="center">
     <form action="register" method="post">
         <p>Nome: <input type="text" name="name" required></p>
-        <p>CPF: <input type="text" name="cpf" pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"
-                       title="Digite um CPF no formato: xxx.xxx.xxx-xx" required></p>
+        <p>CPF: <input type="text" name="cpf" required></p>
         <p><input type="submit" value="Registrar" ></p>
 
     </form>
