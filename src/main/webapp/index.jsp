@@ -10,8 +10,8 @@
         <p>Nome: <input type="text" name="name" required></p>
         <p>CPF: <input type="text" name="cpf" required></p>
         <p><input type="submit" value="Registrar" ></p>
-
     </form>
+    <a href="historico.jsp">Histórico</a>
 </div>
 
 <!--<a href="hello-servlet">Hello Servlet (Hello world)</a> -->
